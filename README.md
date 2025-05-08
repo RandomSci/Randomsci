@@ -1,16 +1,16 @@
 <h1 align="center">Hi there, I'm Selwyn 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Computer+Vision+Engineer;Freelancer+%7C+Mentor+%7C+AI+Enthusiast;Passionate+about+Deep+Learning+%26+PyTorch" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Computer+Vision+Engineer;Freelancer+and+Mentor;AI+Enthusiast+%7C+Loves+PyTorch" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🧠 About Me
 
-- 🎓 Computer Vision Engineer with a passion for deep learning and AI.
-- 💼 Experienced freelancer delivering impactful AI solutions.
-- 👨‍🏫 Dedicated mentor guiding the next generation of engineers.
-- 🧡 PyTorch enthusiast who thrives on building intelligent systems.
+- 🎓 Computer Vision Engineer with a deep passion for artificial intelligence.
+- 💼 Active freelancer delivering production-grade AI solutions.
+- 👨‍🏫 Mentor to aspiring engineers — guiding real-world, practical learning.
+- 🧡 PyTorch enthusiast who loves to build and break things in the name of learning.
 
 ---
 
@@ -28,28 +28,28 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zkllmt&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zkllmt&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Randomsci&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Randomsci&layout=compact&theme=radical" />
 </p>
 
 ---
 
 ### 🏆 Achievements
 
-- 🚀 Successfully managed multiple freelance AI projects.
-- 👥 Mentored aspiring engineers to build real-world applications.
-- 📈 Consistently delivered high-impact data solutions and vision pipelines.
+- ✅ Completed numerous freelance AI projects with measurable impact.
+- 🌱 Mentoring junior developers and students in machine learning.
+- ⚙️ Building vision pipelines and prototypes using PyTorch and OpenCV.
 
 ---
 
 ### 📫 Let's Connect
 
-- [LinkedIn](https://linkedin.com/in/zkllmt)
-- [Email](mailto:your-email@example.com)
-- [Portfolio](https://your-portfolio.com)
+- 🔗 [LinkedIn](https://linkedin.com/in/randomsci) *(update if different)*
+- 📬 Email: your-email@example.com *(replace with actual)*
+- 🌐 [Portfolio](https://your-portfolio.com) *(optional)*
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zkllmt&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Randomsci&style=flat-square&color=blue" alt="Profile Views" />
 </p>
