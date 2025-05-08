@@ -36,17 +36,17 @@
 
 ### 🏆 Achievements
 
-- ✅ Completed numerous freelance AI projects with measurable impact.
-- 🌱 Mentoring junior developers and students in machine learning.
-- ⚙️ Building vision pipelines and prototypes using PyTorch and OpenCV.
+- ✅ Successfully completed freelance AI projects with real-world applications.
+- 🌱 Mentoring junior developers and students in ML and CV.
+- ⚙️ Building and deploying computer vision pipelines using PyTorch and OpenCV.
 
 ---
 
 ### 📫 Let's Connect
 
-- 🔗 [LinkedIn](https://linkedin.com/in/randomsci) *(update if different)*
-- 📬 Email: your-email@example.com *(replace with actual)*
-- 🌐 [Portfolio](https://your-portfolio.com) *(optional)*
+- 🔗 [LinkedIn](https://www.linkedin.com/in/selwyn-jayme-a367102b1)
+- 📬 Email: jaymeselwyn@gmail.com  
+- 💬 [Facebook](https://facebook.com/zkllmt)
 
 ---
 
