@@ -8,10 +8,10 @@
 ### 🧠 Who Am I?
 
 > A builder who ships. An engineer who automates everything. A problem solver who turns AI into business systems.  
-> I don't just write code, I build revenue-generating machines.
+> I don't just write code — I build revenue-generating machines.
 
 - ⚡ **AI Automation Engineer** specializing in autonomous content systems and workflow automation.
-- 🚀 Built **AlgoNova** — an autonomous YouTube system generating 3 videos daily, 46k views in 28 days, zero manual intervention.
+- 🚀 Built **AlgoNova** — an autonomous YouTube system producing multiple videos daily with zero manual intervention.
 - 💼 Running **AI automation business** — helping companies replace manual workflows with intelligent systems ($500-$5k+ projects).
 - 🛠️ **n8n workflows, Python, FastAPI, ML models** — if it can be automated, I've built it.
 - 🎯 **Mission:** Hit ₱1 billion by age 30. Currently 23. Clock's ticking.
@@ -50,7 +50,7 @@
 
 ### 🏅 What I've Built
 
-- 🎥 **AlgoNova** — Autonomous YouTube content system (3 videos/day, 68 videos, 46k views, 28 days)
+- 🎥 **AlgoNova** — Autonomous YouTube content system operating 24/7 with zero human input
 - 🤖 **AI Voice Calling Systems** — Automated lead qualification and appointment booking
 - 🔄 **Custom Automation Workflows** — n8n + Python + AI APIs for business process automation
 - 📊 **ML-Powered Analytics** — Geotechnical engineering models, data pipelines, predictive systems
