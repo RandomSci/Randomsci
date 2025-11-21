@@ -14,7 +14,7 @@
 - 🚀 Built **AlgoNova** — an autonomous YouTube system producing multiple videos daily with zero manual intervention.
 - 💼 Running **AI automation business** — helping companies replace manual workflows with intelligent systems ($500-$5k+ projects).
 - 🛠️ **n8n workflows, Python, FastAPI, ML models** — if it can be automated, I've built it.
-- 🎯 **Mission:** Hit ₱1 billion by age 30. Currently 23. Clock's ticking.
+- 🎯 **Mission:** Hit $1 billion by age 30. Currently 23. Clock's ticking.
 
 ---
 
