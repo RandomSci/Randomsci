@@ -8,7 +8,7 @@
 ### 🧠 Who Am I?
 
 > A builder who ships. An engineer who automates everything. A problem solver who turns AI into business systems.  
-> I don't just write code — I build revenue-generating machines.
+> I don't just write code, I build revenue-generating machines.
 
 - ⚡ **AI Automation Engineer** specializing in autonomous content systems and workflow automation.
 - 🚀 Built **AlgoNova** — an autonomous YouTube system generating 3 videos daily, 46k views in 28 days, zero manual intervention.
