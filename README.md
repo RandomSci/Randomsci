@@ -41,11 +41,7 @@
 
 ### 📈 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Randomsci&show_icons=true&theme=radical&rank_icon=github&cache_seconds=86400" alt="Selwyn's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Randomsci&layout=compact&theme=radical&langs_count=10&cache_seconds=86400" alt="Top Languages" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Randomsci&theme=radical&hide_border=true)](https://github.com/Randomsci)
 
 ---
 
