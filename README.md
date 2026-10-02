@@ -1,80 +1,115 @@
-<h1 align="center">Hey there! I'm Selwyn 👋</h1>
+<h1 align="center">Hey, I'm Selwyn 👋</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=AI+Automation+Engineer+%F0%9F%A4%96;Founder+%7C+Builder+%7C+Problem+Solver+%F0%9F%92%A1;Building+TeckGrowth+%F0%9F%9A%80;Turning+AI+into+Revenue+Machines+%F0%9F%92%B0" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Building+Autonomous+AI+Characters+%F0%9F%A4%96;AI+VTubers+That+Talk%2C+Code+%26+Build+Live+%F0%9F%8E%A5;Automation+Engineer+%7C+Developer+%7C+Builder;Turning+AI+Ideas+Into+Working+Systems+%F0%9F%9A%80"
+    alt="Typing SVG"
+  />
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/@SelwynBuilds-j1s">
+    <img
+      src="https://img.shields.io/badge/WATCH_MIKA_%26_LUNA_LIVE-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
+      alt="Watch Mika and Luna Live"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <strong>AI VTubers that don't just talk. They build viewer requests live.</strong>
 </p>
 
 ---
 
-### 🧠 Who Am I?
+## 🤖 What I'm Building
 
-> A builder who ships. An engineer who automates everything. A founder who turned tutorial hell into a product.
-> I don't just write code. I build revenue-generating machines.
+My main project is an autonomous AI livestream system built on top of the open-source
+[Open-LLM-VTuber](https://github.com/Open-LLM-VTuber/Open-LLM-VTuber) project.
 
-- ⚡ **AI Automation Engineer** specializing in autonomous systems and workflow automation
-- 🚀 Founder of **TeckGrowth** — AI adaptive learning platform that eliminates tutorial hell. Live at [teckgrowth.com](https://teckgrowth.com)
-- 🤖 Founder of **AlgoNova Labs** — AI automation agency building systems that replace manual workflows
-- 🛠️ Everything on my social media is automated by AI agents I built myself
-- 🎯 **Mission:** Hit $1 billion by age 30. Currently 23. Clock's ticking.
+The open-source foundation provides the underlying VTuber / Live2D system.
 
----
+I'm extending it with my own automation, coding, orchestration, livestream, execution, testing and publishing systems.
 
-### 🚀 Tech Arsenal
+The result is **Mika and Luna**: AI characters that can interact with livestream viewers and turn ideas from chat into working software.
 
-#### AI and Automation
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+### 🔴 Watch the system live
 
-#### Infrastructure and Tools
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+👉 **[Selwyn Builds on YouTube](https://www.youtube.com/@SelwynBuilds-j1s)**
 
-#### Development
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+The end goal is simple:
+
+> A viewer gives Mika or Luna an idea in chat, and the system builds it live,
+> tests it, fixes failures, publishes the result, and sends the finished project back to the viewer.
 
 ---
 
-### 📈 GitHub Analytics
+# 🩷 Mika + 💜 Luna
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Randomsci&theme=radical&hide_border=true)](https://github.com/Randomsci)
+Mika and Luna are the characters viewers interact with on stream.
 
----
+Behind them is a larger autonomous system that connects:
 
-### 🏅 What I've Built
+- YouTube livestream chat
+- AI conversation
+- voice synthesis
+- multi-character routing
+- code generation
+- Python execution
+- browser execution
+- automated testing
+- failure recovery
+- project publishing
+- GitHub
+- YouTube automation
 
-- 🎓 **TeckGrowth** — AI adaptive learning platform. Personalized roadmaps, quizzes, practice lab, project builder. Built to eliminate tutorial hell. [teckgrowth.com](https://teckgrowth.com)
-- 🤖 **Multi-Agent Bot Systems** — LinkedIn, X, and Facebook agents running 24/7 with custom brand voice
-- 🎥 **AlgoNova** — Autonomous content and automation systems for businesses
-- 📞 **AI Voice Calling Systems** — Automated lead qualification and appointment booking via VAPI
-- 🔄 **Custom Automation Workflows** — n8n + Python + AI APIs replacing manual business processes
-- 🛠️ **Full-Stack SaaS** — FastAPI backends, MongoDB, Railway deployment, Google Auth, Lemon Squeezy payments
+They are designed to be more than AI characters that simply respond to messages.
 
----
-
-### 💼 Current Focus
-
-- **TeckGrowth** — Growing users and conversions. Free trial system live. [teckgrowth.com](https://teckgrowth.com)
-- **AlgoNova Labs** — AI automation projects for businesses. $500 to $5,000+ based on scope.
-- **Distribution** — Building in public. Posting daily. Enemy framework.
-
----
-
-### 🌐 Let's Connect
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/selwyn-jayme-a367102b1)
-- 🌐 [TeckGrowth](https://teckgrowth.com)
-- 📬 Email: [jaymeselwyn@gmail.com](mailto:jaymeselwyn@gmail.com)
-- 💬 [Facebook](https://facebook.com/zkllmt)
+They can actually **do things**.
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Randomsci&style=flat-square&color=blue" alt="Profile Views" />
-  <br/>
-  <strong>Open for high-impact automation projects. Let's build something that prints money.</strong>
-</p>
+## ⚡ Code in Public
+
+One of the main features of the project is **Code in Public**.
+
+A viewer can request something directly from livestream chat:
+
+> "Mika, make a game where Luna flies through space."
+
+The system can then turn that request into a real project while the audience watches.
+
+```text
+Viewer Request
+      ↓
+Mika / Luna
+      ↓
+Intent + Task Routing
+      ↓
+Coding System
+      ↓
+Python or HTML / CSS / JavaScript
+      ↓
+Code Appears Live
+      ↓
+RUNNING
+      ↓
+Automated Testing
+      ↓
+┌───────────────┐
+│  RUN FAILED   │
+└───────┬───────┘
+        ↓
+      Repair
+        ↓
+┌───────────────┐
+│ RUN COMPLETE  │
+└───────┬───────┘
+        ↓
+Result Appears Live
+        ↓
+Publish
+        ↓
+Playable URL
+        ↓
+Viewer Gets Their Creation
