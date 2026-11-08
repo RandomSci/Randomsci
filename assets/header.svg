@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b0718"/>
+      <stop offset="1" stop-color="#140a26"/>
+    </linearGradient>
+    <linearGradient id="title" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ff7aa2"/>
+      <stop offset="0.5" stop-color="#f5f0ff"/>
+      <stop offset="1" stop-color="#a78bfa"/>
+    </linearGradient>
+    <radialGradient id="pink" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#ff5c8a" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#ff5c8a" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="violet" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#8b5cf6" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.045"/>
+    </pattern>
+    <clipPath id="card"><rect width="1200" height="360" rx="22"/></clipPath>
+    <style>
+      .orbA { animation: driftA 9s ease-in-out infinite; }
+      .orbB { animation: driftB 11s ease-in-out infinite; }
+      .rise { opacity: 0; animation: rise 0.9s ease-out forwards; }
+      .d1 { animation-delay: 0.15s; } .d2 { animation-delay: 0.45s; }
+      .d3 { animation-delay: 0.75s; } .d4 { animation-delay: 1.05s; }
+      .blink { animation: blink 1.1s steps(1) infinite; }
+      .pulse { animation: pulse 2s ease-in-out infinite; }
+      .scan { animation: scan 6s linear infinite; }
+      @keyframes driftA { 0%,100% { transform: translate(0,0); } 50% { transform: translate(60px,25px); } }
+      @keyframes driftB { 0%,100% { transform: translate(0,0); } 50% { transform: translate(-70px,-20px); } }
+      @keyframes rise { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: translateY(0); } }
+      @keyframes blink { 0%,50% { opacity: 1; } 51%,100% { opacity: 0; } }
+      @keyframes pulse { 0%,100% { opacity: 1; } 50% { opacity: 0.25; } }
+      @keyframes scan { from { transform: translateY(-40px); } to { transform: translateY(400px); } }
+      text { font-family: 'Segoe UI', 'Inter', Helvetica, Arial, sans-serif; }
+      .mono { font-family: 'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace; }
+    </style>
+  </defs>
+
+  <g clip-path="url(#card)">
+    <rect width="1200" height="360" fill="url(#bg)"/>
+    <rect width="1200" height="360" fill="url(#grid)"/>
+    <g class="orbA"><circle cx="230" cy="90" r="260" fill="url(#pink)"/></g>
+    <g class="orbB"><circle cx="1000" cy="290" r="280" fill="url(#violet)"/></g>
+    <rect class="scan" x="0" y="0" width="1200" height="40" fill="#ffffff" opacity="0.025"/>
+
+    <!-- window chrome -->
+    <g transform="translate(40 32)">
+      <circle cx="0" cy="0" r="6" fill="#ff5f57"/>
+      <circle cx="20" cy="0" r="6" fill="#febc2e"/>
+      <circle cx="40" cy="0" r="6" fill="#28c840"/>
+      <text x="64" y="5" class="mono" font-size="13" fill="#8b84a8">~/selwyn-builds  main</text>
+    </g>
+
+    <!-- live badge -->
+    <g transform="translate(1050 20)">
+      <rect width="118" height="28" rx="14" fill="#4ade80" fill-opacity="0.12" stroke="#4ade80" stroke-opacity="0.6"/>
+      <circle class="pulse" cx="18" cy="14" r="5" fill="#4ade80"/>
+      <text x="32" y="19" class="mono" font-size="12" font-weight="700" fill="#86efac">BUILDING</text>
+    </g>
+
+    <text class="rise d1 mono" x="70" y="120" font-size="16" fill="#ff8fab" letter-spacing="3">HEY, I'M</text>
+    <text class="rise d2" x="66" y="190" font-size="72" font-weight="800" fill="url(#title)" letter-spacing="-1">Selwyn Jayme</text>
+    <text class="rise d3" x="70" y="234" font-size="22" fill="#d9d2f0">AI Automation Engineer  ·  Voice Agents  ·  n8n Systems</text>
+
+    <g transform="translate(70 284)">
+      <text class="rise d4 mono" font-size="15" fill="#8b84a8">$ <tspan fill="#c4b5fd">selwyn</tspan> --build <tspan fill="#ff8fab">"ideas into working systems"</tspan><tspan class="blink" fill="#f5f0ff"> ▍</tspan></text>
+    </g>
+
+    <!-- right side: workflow graph -->
+    <g transform="translate(745 105)">
+      <path d="M60 40 C120 40 120 0 180 0" fill="none" stroke="#c4b5fd" stroke-opacity="0.6" stroke-width="2" stroke-dasharray="5 6">
+        <animate attributeName="stroke-dashoffset" from="0" to="-22" dur="1s" repeatCount="indefinite"/></path>
+      <path d="M60 40 C120 40 120 140 180 140" fill="none" stroke="#c4b5fd" stroke-opacity="0.6" stroke-width="2" stroke-dasharray="5 6">
+        <animate attributeName="stroke-dashoffset" from="0" to="-22" dur="1s" repeatCount="indefinite"/></path>
+      <path d="M240 0 C290 0 290 70 320 70" fill="none" stroke="#ff7aa2" stroke-opacity="0.6" stroke-width="2" stroke-dasharray="5 6">
+        <animate attributeName="stroke-dashoffset" from="0" to="-22" dur="1s" repeatCount="indefinite"/></path>
+      <path d="M240 140 C290 140 290 70 320 70" fill="none" stroke="#ff7aa2" stroke-opacity="0.6" stroke-width="2" stroke-dasharray="5 6">
+        <animate attributeName="stroke-dashoffset" from="0" to="-22" dur="1s" repeatCount="indefinite"/></path>
+      <circle r="4" fill="#ff7aa2"><animateMotion dur="2.4s" repeatCount="indefinite" path="M60 40 C120 40 120 0 180 0 L240 0 C290 0 290 70 320 70"/></circle>
+      <circle r="4" fill="#a78bfa"><animateMotion dur="2.4s" begin="1.2s" repeatCount="indefinite" path="M60 40 C120 40 120 140 180 140 L240 140 C290 140 290 70 320 70"/></circle>
+
+      <g transform="translate(0 10)"><rect width="60" height="60" rx="16" fill="#1c1033" stroke="#ff7aa2"/>
+        <path d="M34 14 L22 34 H30 L26 48 L40 26 H32 Z" fill="#ff8fab"/></g>
+      <text x="30" y="92" text-anchor="middle" class="mono" font-size="11" fill="#8b84a8">TRIGGER</text>
+
+      <g transform="translate(180 -30)"><rect width="60" height="60" rx="16" fill="#1c1033" stroke="#a78bfa"/>
+        <text x="30" y="37" text-anchor="middle" class="mono" font-size="16" font-weight="800" fill="#e2d9ff">AI</text></g>
+      <text x="210" y="-38" text-anchor="middle" class="mono" font-size="11" fill="#8b84a8">AGENT</text>
+
+      <g transform="translate(180 110)"><rect width="60" height="60" rx="16" fill="#1c1033" stroke="#a78bfa"/>
+        <path d="M20 22 h20 M20 30 h20 M20 38 h12" stroke="#e2d9ff" stroke-width="3" stroke-linecap="round"/></g>
+      <text x="210" y="190" text-anchor="middle" class="mono" font-size="11" fill="#8b84a8">TOOLS</text>
+
+      <g transform="translate(320 40)"><rect class="pulse" x="-4" y="-4" width="68" height="68" rx="19" fill="none" stroke="#4ade80" stroke-opacity="0.5"/>
+        <rect width="60" height="60" rx="16" fill="#0f2a1c" stroke="#4ade80"/>
+        <path d="M18 31 L27 40 L43 22" fill="none" stroke="#4ade80" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/></g>
+      <text x="350" y="122" text-anchor="middle" class="mono" font-size="11" fill="#8b84a8">DONE</text>
+    </g>
+  </g>
+  <rect x="0.5" y="0.5" width="1199" height="359" rx="22" fill="none" stroke="#ffffff" stroke-opacity="0.08"/>
+</svg>
